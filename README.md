@@ -1,6 +1,6 @@
 ### weather
 
-# After Hosting the output looks like
+# After Hosting the output looks like - click the link 
 
 ## https://thariq.herokuapp.com/
 
